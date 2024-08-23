@@ -82,6 +82,9 @@ button{
 .main2{
     margin: 30px;
 }
+.box{
+    cursor: pointer;
+}
 .main-random{
     display: flex;
     align-items: center;
